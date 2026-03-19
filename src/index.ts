@@ -575,3 +575,4 @@ app.listen(PORT, () => {
   console.log(`  Transport:      Streamable HTTP`);
   console.log(`  Auth:           Bearer passthrough (client provides api_key:site)`);
 });
+// OAuth upgrade 2026-03-19T00:52:15Z
